@@ -141,6 +141,7 @@ progress::-webkit-progress-value {
     padding: 0;
     margin: 0;
     font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
   }
   
   .interests-list li {
@@ -148,6 +149,7 @@ progress::-webkit-progress-value {
     margin: 1em 0;
     font-size: 1.2em;
     font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .interests-list li::before {
@@ -155,6 +157,7 @@ progress::-webkit-progress-value {
     margin-right: 0.5em;
     font-size: 1.2em;
     color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
 }
   
   a {
